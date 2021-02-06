@@ -1,4 +1,4 @@
-# Find unbound keys on CSGO
+# List unbound keys on CSGO
 ## How to use
 1. Open CSGO.
 2. Open the developer console (defaults to the backtick key).
