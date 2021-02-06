@@ -1,0 +1,22 @@
+p {
+	line-height: 0em;
+}
+textarea {
+	box-sizing: border-box;
+	height: 90%;
+	width: 90%;
+}
+.column {
+	float: left;
+	width: 50%;
+}
+.container {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
